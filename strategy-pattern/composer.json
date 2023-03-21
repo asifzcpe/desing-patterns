@@ -1,0 +1,15 @@
+{
+    "name": "wedevs/strategy-pattern",
+    "autoload": {
+        "psr-4": {
+            "Asif\\StrategyPattern\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "asifzcpe",
+            "email": "rahmanasif05004@gmail.com"
+        }
+    ],
+    "require": {}
+}
